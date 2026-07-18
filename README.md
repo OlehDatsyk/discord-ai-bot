@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="Discord AI Bot logo" width="240">
-</p>
-
 <h1 align="center">Discord AI Bot</h1>
 
 <p align="center">
