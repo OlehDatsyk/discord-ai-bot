@@ -1,0 +1,4 @@
+# Optional development/testing dependencies (not required to run the bot).
+-r requirements.txt
+pytest==8.3.4
+pytest-asyncio==0.24.0
